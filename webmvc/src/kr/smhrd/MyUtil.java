@@ -6,6 +6,8 @@ public class MyUtil {
 		for(int i=1; i<=10;i++) {
 			sum +=i;
 		}
+		// 수정 필요!
+		// 변경 완료!
 		return sum;
 	}
 }
