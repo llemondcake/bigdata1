@@ -7,6 +7,7 @@ public class MyUtil {
 			sum +=i;
 		}
 		// 수정 필요!
+		// 변경 완료!
 		return sum;
 	}
 }
